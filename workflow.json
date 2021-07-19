@@ -1,7 +1,7 @@
 {
   "workflow": {
     "unique_name": "definition_workflow_01PIEPKFEM37W3lKBkKny693Y2zu4vMf00m",
-    "name": "AWS IR",
+    "name": "AWS Incident Response",
     "title": "AWS IR",
     "type": "generic.workflow",
     "base_type": "workflow",
