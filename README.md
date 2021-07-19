@@ -43,4 +43,3 @@ This workflow relies on details from your AWS environment including authenticati
 
 ### Notes
 Please test this properly before implementing in a production environment. This is a sample workflow!
-In a future version web hooks will be added to trigger the workflow rather than running it on a schedule or manually.
