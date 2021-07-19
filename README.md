@@ -37,6 +37,10 @@ Browse to your SecureX orchestration instance. This will be a different URL depe
 
 This workflow relies on details from your AWS environment including authentication, region, quarantine security group, and ELB detail.
 
+## Workflow
+
+<img src="https://github.com/briansak/img/workflow.png">
+
 ### Notes
 Please test this properly before implementing in a production environment. This is a sample workflow!
 In a future version web hooks will be added to trigger the workflow rather than running it on a schedule or manually.
