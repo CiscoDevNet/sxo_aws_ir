@@ -39,7 +39,7 @@ This workflow relies on details from your AWS environment including authenticati
 
 ## Workflow
 
-<img src="https://github.com/briansak/sxo_aws_ir/blob/main/img/workflow.png" width="500" height="1000">
+<img src="https://github.com/briansak/sxo_aws_ir/blob/main/img/workflow.png" width="500" height="700">
 
 ### Notes
 Please test this properly before implementing in a production environment. This is a sample workflow!
