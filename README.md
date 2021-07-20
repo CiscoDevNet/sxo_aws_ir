@@ -1,4 +1,4 @@
-**sxo\_aws\_ir - Incident Response for EC2 in AWS**
+# sxo\_aws\_ir - Incident Response for EC2 in AWS
 
 This workflow simplifies and automates incident response procedures for Amazon EC2 instances. If a compromise is suspected, the workflow can automate incident response procedures that are detailed in the published [Amazon AWS Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.pdf), including:
 
@@ -43,4 +43,3 @@ This workflow relies on details from your AWS environment including authenticati
 
 ### Notes
 Please test this properly before implementing in a production environment. This is a sample workflow!
-In a future version web hooks will be added to trigger the workflow rather than running it on a schedule or manually.
